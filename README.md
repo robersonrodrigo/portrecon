@@ -30,14 +30,14 @@ O script oferece as seguintes opções:
    git clone https://github.com/robersonrodrigo/portrecon.git
    cd portrecon
 2. Dê permissão de execução ao script:
-   '''bash
+   ```bash
    chmod +x portrecon.sh
 
 ## Uso
   Execute o script com uma das opções disponíveis. Por exemplo:
-  '''bash
-  bash
+  
     ./portrecon.sh -a
+    
 ## Contribuição
 Contribuições são bem-vindas! Se você deseja contribuir, por favor, faça um fork do repositório e envie um pull request.
 
