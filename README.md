@@ -48,7 +48,7 @@ Contribuições são bem-vindas! Se você deseja contribuir, por favor, faça um
 
       Desenvolvedor Principal: ZeD 
 
-Roberson Rodrigo - https://github.com/robersonrodrigo/ | https://www.linkedin.com/in/robersonr
+      Roberson Rodrigo - https://github.com/robersonrodrigo/ | https://www.linkedin.com/in/robersonr
 
 Contribuições Especiais: Carlos Tuma - https://github.com/carlosalbertotuma | https://www.linkedin.com/in/carlos-tuma
 
