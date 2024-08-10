@@ -46,9 +46,7 @@ Contribuições são bem-vindas! Se você deseja contribuir, por favor, faça um
 
 ## Creditos
 
-      Desenvolvedor Principal: ZeD 
-
-      Roberson Rodrigo | https://www.linkedin.com/in/robersonr
+Desenvolvedor Principal: Roberson Rodrigo - [https://www.linkedin.com/in/robersonr](https://www.linkedin.com/in/robersonr)
 
 Contribuições Especiais: Carlos Tuma - https://github.com/carlosalbertotuma | https://www.linkedin.com/in/carlos-tuma
 
