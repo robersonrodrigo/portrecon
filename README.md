@@ -45,8 +45,8 @@ O script oferece as seguintes opções:
 Contribuições são bem-vindas! Se você deseja contribuir, por favor, faça um fork do repositório e envie um pull request.
 
 ## Creditos
-'''bash
-Desenvolvedor Principal: ZeD 
+
+      Desenvolvedor Principal: ZeD 
 
 Roberson Rodrigo - https://github.com/robersonrodrigo/ | https://www.linkedin.com/in/robersonr
 
