@@ -26,10 +26,13 @@ O script oferece as seguintes opções:
 ## Instalação
 
 1. Clone o repositório:
+   
    ```bash
    git clone https://github.com/robersonrodrigo/portrecon.git
    cd portrecon
-2. Dê permissão de execução ao script:
+   
+3. Dê permissão de execução ao script:
+
    ```bash
    chmod +x portrecon.sh
 
