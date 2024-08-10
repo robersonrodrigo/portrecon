@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/2098be46-c3a1-431d-85a5-d53e430d43ed)
-
+![image](https://github.com/user-attachments/assets/cc7b4a91-4959-42f8-9f88-c0be2c2e0617)
 
 PortRecon é um script de shell desenvolvido para realizar varreduras de portas e serviços em redes. Com uma interface de linha de comando simples, ele permite que os usuários realizem uma variedade de operações de rede, como varredura de portas usando diferentes ferramentas e técnicas.
 
